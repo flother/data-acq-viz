@@ -1,0 +1,9 @@
+title: Data acquisition and visualisation
+markdown: kramdown
+timezone: Atlantic/Reykjavik
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "tufte"
