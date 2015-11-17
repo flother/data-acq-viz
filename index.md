@@ -134,19 +134,25 @@ Edward R. Tufte. 1983. *The Visual Display of Quantitative Information*. Graphic
 <input type="checkbox" id="sn-bookcopy" class="margin-toggle"/>
 <span class="sidenote">A copy of this book is <a href="http://leitir.is/primo_library/libweb/action/display.do?fn=search&recIds=ICE01_PRIMO001356766&tabs=locationsTab">available in the university library</a>.</span>
 
-Hadley Wickham. 2014. [*Tidy Data*] [ref1]. Journal of Statistical Software.
+Roger D. Peng and Elizabeth Matsui. 2015. [*The Art of Data Science*] [ref1]. Leanpub.
 
-Stephen Few. 2014. [*Graph Selection Matrix*] [ref2]. Perceptual Edge.
+Jonathan Gray et al (eds). 2012. [*Data Journalism Handbook*] [ref2]. O'Reilly.
 
-Stephen Few. 2010. [*Our Irresistible Fascination with All Things Circular*] [ref3]. Perceptual Edge.
+Hadley Wickham. 2014. [*Tidy Data*] [ref3]. Journal of Statistical Software.
 
-[BBC More or Less] [ref4] podcast.
+Stephen Few. 2014. [*Graph Selection Matrix*] [ref4]. Perceptual Edge.
 
-[Data Stories] [ref5] podcast.
+Stephen Few. 2010. [*Our Irresistible Fascination with All Things Circular*] [ref5]. Perceptual Edge.
+
+[BBC More or Less] [ref6] podcast.
+
+[Data Stories] [ref7] podcast.
 
 
-[ref1]: http://www.jstatsoft.org/article/view/v059i10/v59i10.pdf
-[ref2]: https://www.perceptualedge.com/articles/misc/Graph_Selection_Matrix.pdf
-[ref3]: http://www.perceptualedge.com/articles/visual_business_intelligence/our_fascination_with_all_things_circular.pdf
-[ref4]: http://www.bbc.co.uk/programmes/p02nrss1
-[ref5]: http://datastori.es/
+[ref1]: https://leanpub.com/artofdatascience
+[ref2]: http://datajournalismhandbook.org/
+[ref3]: http://www.jstatsoft.org/article/view/v059i10/v59i10.pdf
+[ref4]: https://www.perceptualedge.com/articles/misc/Graph_Selection_Matrix.pdf
+[ref5]: http://www.perceptualedge.com/articles/visual_business_intelligence/our_fascination_with_all_things_circular.pdf
+[ref6]: http://www.bbc.co.uk/programmes/p02nrss1
+[ref7]: http://datastori.es/
