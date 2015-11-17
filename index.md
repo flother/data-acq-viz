@@ -45,17 +45,17 @@ These concepts are applied in a practical project where you will apply your new 
 ### Visualisation
 
 * Brief overview of the history of charts
+* Best of charts
+* Worst of charts
+* Techniques and tips on designing tables and charts
+* Useful chart types (and the rest)
 * Telling a story with data
+* Pre-attentive processing
+* Gestalt theory
 * Chart junk
 * Transforming a poor chart
 * Compare, compare, compare
-* Best of charts
-* Worst of charts
 * Font usage
-* Pre-attentive processing
-* Gestalt theory
-* Techniques and tips on designing tables and charts
-* Useful chart types (and the rest)
 * Colour usage
 
 ### Data acquisition — the world as an API
