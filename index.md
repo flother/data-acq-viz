@@ -42,6 +42,30 @@ These concepts are applied in a practical project where you will apply your new 
 
 ## Course syllabus
 
+## Visualisation
+
+* Brief overview of the history of charts
+* Telling a story with data
+* Chart junk
+* Transforming a poor chart
+* Compare, compare, compare
+* Best of charts
+* Worst of charts
+* Font usage
+* Pre-attentive processing
+* Gestalt theory
+* Techniques and tips on designing tables and charts
+* Useful chart types (and the rest)
+* Colour usage
+
+## Data acquisition — the world as an API
+
+* Getting data (scraping, sniffing, asking)
+* Cleaning data (methods, tools, formats)
+* Understanding data (tools, maths)
+* Best practices
+* Data acquisition examples
+
 ### Digital mapping
 
 * Projections
