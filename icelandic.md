@@ -6,7 +6,7 @@ permalink: /2015/islenska/
 ---
 
 
-Þriggja vikna verklegt námskeið sem gefur innsýn í gagnaöflun og myndbirtingu gagna, þróað fyrir nemendur í grunnámi í Háskólanum í Reykjavík [content1] í tölvunarfræði. Á námskeiðinu er farið yfir ferlið við að finna gagnaveitur, sækja og hreinsa gögn, bestu aðferðir við að myndbirta gögnin, og hvaða tól er heppilegt að nota við hvert skref.
+Þriggja vikna verklegt námskeið sem gefur innsýn í gagnaöflun og myndbirtingu gagna, þróað fyrir nemendur í grunnámi í [Háskólanum í Reykjavík] [content1] í tölvunarfræði. Á námskeiðinu er farið yfir ferlið við að finna gagnaveitur, sækja og hreinsa gögn, bestu aðferðir við að myndbirta gögnin, og hvaða tól er heppilegt að nota við hvert skref.
 
 Að lokum er þessari þekkingu beitt til að smíða kynningu sem byggir á gögnum sem hefur verið aflað yfir námskeiðstímann. Fyrstu tvær vikurnar fara í að móta og þróa verkefnið, ásamt því að sitja fyrirlestra. Síðasta vikan er notuð til að fínpússa kynninguna, með stuðningi kennara.
 
