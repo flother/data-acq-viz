@@ -6,25 +6,24 @@ permalink: /2015/islenska/
 ---
 
 
-This three-week course is a hands-on introduction to data acquisition and visualisation aimed at undergraduate students in
-[Reykjavík University's] [content1] computer science department. It covers the complete process of finding data sources, collecting and cleaning data, using best practices to visualise data, and selecting the tools suitable for each step.
- 
-These concepts are applied in a practical project where you will apply your new knowledge to make a static or interactive data visualisation. In the first two weeks, alongside lectures on data visualisation and acquisition, you will develop your project’s concept and framework incrementally. The final week is devoted to refining your project with support from the lecturers.
+Þriggja vikna verklegt námskeið sem gefur innsýn í gagnaöflun og myndbirtingu gagna, þróað fyrir nemendur í grunnámi í Háskólanum í Reykjavík [content1] í tölvunarfræði. Á námskeiðinu er farið yfir ferlið við að finna gagnaveitur, sækja og hreinsa gögn, bestu aðferðir við að myndbirta gögnin, og hvaða tól er heppilegt að nota við hvert skref.
+
+Að lokum er þessari þekkingu beitt til að smíða kynningu sem byggir á gögnum sem hefur verið aflað yfir námskeiðstímann. Fyrstu tvær vikurnar fara í að móta og þróa verkefnið, ásamt því að sitja fyrirlestra. Síðasta vikan er notuð til að fínpússa kynninguna, með stuðningi kennara.
 
 [content1]: http://www.ru.is/
 
 
-## Learning outcome
+## Hæfniviðmið
 
-### Knowledge
+### Þekking
 
-* Milestones in the history of data visualisation
-* Frequent problems in data visualisation
-* Best practices and common pitfalls in data visualisation
-* Limits of human visual perception
-* Process of acquiring data and preparing it for use
-* Principles of high-quality digital maps
-* Tools for creating charts and maps, and for collecting data
+* Hæstu tindarnir í sögu myndbirtingar á gögnum
+* Algeng vandamál við myndbirtingar á gögnum
+* Góð vinnubrögð og algeng mistök við myndbirtingu gagna
+* Takmörk mannlegrar skynjunar
+* Aðferðir við gagnaöflun og gagnasnyrtingu
+* Grundvallarhugtök vel gerðra stafrænna korta
+* Verkfæri til að smíða myndrit og kort, og við gagnaöflun
 
 ### Skills
 
