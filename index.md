@@ -101,6 +101,17 @@ You are required to attend, participate actively, and complete paper,
 presentation, and report. Both the presentation and report must be in English.
 The expected workload for students is 150 hours.
 
+### Deadlines
+
+You must hand in the completed question paper no later than 14 December.
+Presentations will be held on 15 and 16 December (you will be able to choose
+the day and time). Final presentation materials must be available to lecturers
+before your presentation. Your written report must be handed in no later than
+16 December.
+
+The deadlines are not flexible: anything submitted after its deadline will not
+be graded.
+
 
 ## Teaching methods
 
