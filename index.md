@@ -42,7 +42,7 @@ These concepts are applied in a practical project where you will apply your new 
 
 ## Course syllabus
 
-## Visualisation
+### Visualisation
 
 * Brief overview of the history of charts
 * Telling a story with data
@@ -58,7 +58,7 @@ These concepts are applied in a practical project where you will apply your new 
 * Useful chart types (and the rest)
 * Colour usage
 
-## Data acquisition — the world as an API
+### Data acquisition — the world as an API
 
 * Getting data (scraping, sniffing, asking)
 * Cleaning data (methods, tools, formats)
