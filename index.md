@@ -133,10 +133,10 @@ The lectures will cover the course syllabus while the practical work will allow 
 
 ## Books and podcasts
 
+<label for="mn-bookcopy" class="margin-toggle">&#8853;</label>
+<input type="checkbox" id="mn-bookcopy" class="margin-toggle"/>
+<span class="marginnote">A copy of this book is <a href="http://leitir.is/primo_library/libweb/action/display.do?fn=search&recIds=ICE01_PRIMO001356766&tabs=locationsTab">available in the university library</a>.</span>
 Edward R. Tufte. 1983. *The Visual Display of Quantitative Information*. Graphics Press.
-<label for="sn-bookcopy" class="margin-toggle sidenote-number"></label>
-<input type="checkbox" id="sn-bookcopy" class="margin-toggle"/>
-<span class="sidenote">A copy of this book is <a href="http://leitir.is/primo_library/libweb/action/display.do?fn=search&recIds=ICE01_PRIMO001356766&tabs=locationsTab">available in the university library</a>.</span>
 
 Roger D. Peng and Elizabeth Matsui. 2015. [*The Art of Data Science*] [ref1]. Leanpub.
 
