@@ -5,6 +5,10 @@ lang: en
 ---
 
 
+<label for="mn-icelandic" class="margin-toggle">&#8853;</label>
+<input type="checkbox" id="mn-icelandic" class="margin-toggle"/>
+<span class="marginnote">The information on this page is also <a href="/2015/islenska/">available in Icelandic</a>.</span>
+
 This three-week course is a hands-on introduction to data acquisition and visualisation aimed at undergraduate students in
 [Reykjavík University's] [content1] computer science department. It covers the complete process of finding data sources, collecting and cleaning data, using best practices to visualise data, and selecting the tools suitable for each step.
  
