@@ -114,6 +114,9 @@ The lectures will cover the course syllabus while the practical work will allow 
 ## Books and podcasts
 
 Edward R. Tufte. 1983. *The Visual Display of Quantitative Information*. Graphics Press.
+<label for="sn-bookcopy" class="margin-toggle sidenote-number"></label>
+<input type="checkbox" id="sn-bookcopy" class="margin-toggle"/>
+<span class="sidenote">A copy of this book is <a href="http://leitir.is/primo_library/libweb/action/display.do?fn=search&recIds=ICE01_PRIMO001356766&tabs=locationsTab">available in the university library</a>.</span>
 
 Hadley Wickham. 2014. [*Tidy Data*] [ref1]. Journal of Statistical Software.
 
