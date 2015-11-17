@@ -83,14 +83,19 @@ These concepts are applied in a practical project where you will apply your new 
 
 ## Course assessment
 
-The course will be assessed via a question paper (worth 10% of your grade) and
-a group presentation (90%). The composition of the grade for the presentation
-can be broken down into:
+The course will be assessed via a question paper, a group presentation, and a
+written report. The composition of your grade will be broken down into:
 
-* Concept (10%)
-* Implementation and methods (20%)
-* Quality of visualisations (40%)
-* Quality and content of the presentation and report (30%)
+Question paper (10%)
+
+Presentation
+
+  * Concept (8%)
+  * Implementation and methods (16%)
+  * Quality of visualisations (32%)
+  * Quality and content of the presentation and report (24%)
+
+Report (10%)
 
 You are required to attend, participate actively, and complete paper,
 presentation, and report. Both the presentation and report must be in English.
