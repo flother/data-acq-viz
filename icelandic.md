@@ -25,61 +25,59 @@ Að lokum er þessari þekkingu beitt til að smíða kynningu sem byggir á gö
 * Grundvallarhugtök vel gerðra stafrænna korta
 * Verkfæri til að smíða myndrit og kort, og við gagnaöflun
 
-### Skills
+### Leikni
 
-* Select suitable chart types, colours, fonts, and layouts
-* Select suitable interactive data visualisation methods
-* Select suitable map projections, scales, and colour schemes
-* Select suitable tools for data collection
-* Acquire data from various online sources
+* Velja myndritagerð við hæfi, letur, liti og umbrot
+* Velja gagnvirka myndbirtingu við hæfi
+* Velja kortavörpun við hæfi, skala, og litaskema
+* Velja gagnaöflunarverkfæri við hæfi
+* Sækja gögn frá mismunandi gagnaveitum
 
-### Competencies
+### Hæfni
 
-* Take raw data and explain it to your audience using charts and maps
-* Apply manual and automatic methods to collect data
-* Apply manual and automatic methods to clean malformed data
+* Taka hrágögn og skýra þau fyrir áheyrendum með myndritum og kortum
+* Beita handvirkum og sjálfvirkum aðferðum við að sækja gögn
+* Beita handvirkum og sjálfvirkum aðferðum við að hreinsa gögn
 
+## Kennsluáætlun
 
-## Course syllabus
+### Myndritagerð
 
-### Visualisation
-
-* Brief overview of the history of charts
-* Best of charts
-* Worst of charts
-* Techniques and tips on designing tables and charts
-* Useful chart types (and the rest)
-* Telling a story with data
+* Stutt yfirlit yfir sögu myndrita
+* Bestu myndritin
+* Verstu myndritin
+* Tækni og brögð við hönnun myndrita og tafla
+* Nothæfar myndritagerðir (og afgangurinn)
+* Að segja sögu með gögnum
 * Pre-attentive processing
 * Gestalt theory
-* Chart junk
-* Transforming a poor chart
-* Compare, compare, compare
-* Font usage
-* Colour usage
+* Kortarusl
+* Að umbreyta lélegu myndriti
+* Bera saman, bera saman, bera saman
+* Leturnotkun
+* Litanotkun
 
-### Data acquisition — the world as an API
+### Gagnaöflun - heimurinn sem API
 
-* Getting data (scraping, sniffing, asking)
-* Cleaning data (methods, tools, formats)
-* Understanding data (tools, maths)
-* Best practices
-* Data acquisition examples
+* Afla gagna (skrapa, þefa, spyrja)
+* Hreinsa gögn (aðferðir, tól, gerðir)
+* Skilningur á gögnum (tól, reikniaðferðir)
+* Réttar aðferðir
+* Dæmi um gagnaöflun
 
-### Digital mapping
+### Stafræn kortagerð
 
-* Projections
-* Scales
-* Colour schemes
-* Data classification
-* Data normalisation
-* Legends
-* Base maps
-* Cartograms
-* Map localisation
-* Data sources
-* Tools
-
+* Varpanir
+* Skalar
+* Litaskemu
+* Hólfun gagna
+* Samstilling gagna
+* Merkingar
+* Grunnkort
+* Cartogram
+* Staðarstilling á korti (localization)
+* Gagnaveitur
+* Tól
 
 ## Course assessment
 
