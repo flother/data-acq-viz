@@ -93,7 +93,7 @@ Presentation
   * Concept (8%)
   * Implementation and methods (16%)
   * Quality of visualisations (32%)
-  * Quality and content of the presentation and report (24%)
+  * Quality and content of the presentation (24%)
 
 Report (10%)
 
