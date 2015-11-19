@@ -8,9 +8,9 @@ permalink: /2015/islenska/
 <label for="mn-english" class="margin-toggle">&#8853;</label>
 <input type="checkbox" id="mn-english" class="margin-toggle"/>
 <span class="marginnote">The information on this page is also <a href="/">available in English</a>.</span>
-Þriggja vikna verklegt námskeið sem gefur innsýn í gagnaöflun og myndbirtingu gagna, þróað fyrir nemendur í grunnámi í [Háskólanum í Reykjavík] [content1] í tölvunarfræði. Á námskeiðinu er farið yfir ferlið við að finna gagnaveitur, sækja og hreinsa gögn, bestu aðferðir við að myndbirta gögnin, og hvaða tól er heppilegt að nota við hvert skref.
+Þriggja vikna verklegt námskeið sem gefur innsýn í gagnaöflun og myndbirtingu gagna, þróað fyrir nemendur í grunnámi í [Háskólanum í Reykjavík] [content1] í tölvunarfræði. Á námskeiðinu er farið yfir ferlið við að finna gögn, sækja  þau og hreinsa, bestu aðferðir við myndbirtingar og hvaða tól eru heppilegust í hverju skrefi.
 
-Að lokum er þessari þekkingu beitt til að smíða kynningu sem byggir á gögnum sem hefur verið aflað yfir námskeiðstímann. Fyrstu tvær vikurnar fara í að móta og þróa verkefnið, ásamt því að sitja fyrirlestra. Síðasta vikan er notuð til að fínpússa kynninguna, með stuðningi kennara.
+Að lokum er þessari þekkingu beitt til að útbúa kynningu sem byggir á gögnum sem hefur verið aflað yfir námskeiðstímann. Fyrstu tvær vikurnar eru notaðar í að móta og þróa verkefnið, ásamt því að sitja fyrirlestra. Síðasta vikan fer í að fínpússa kynninguna, með stuðningi kennara.
 
 [content1]: http://www.ru.is/
 
@@ -25,7 +25,7 @@ Að lokum er þessari þekkingu beitt til að smíða kynningu sem byggir á gö
 * Takmörk mannlegrar skynjunar
 * Aðferðir við gagnaöflun og gagnasnyrtingu
 * Grundvallarhugtök vel gerðra stafrænna korta
-* Verkfæri til að smíða myndrit og kort, og við gagnaöflun
+* Verkfæri til að smíða myndrit, kort og við gagnaöflun
 
 ### Leikni
 
@@ -83,7 +83,7 @@ Að lokum er þessari þekkingu beitt til að smíða kynningu sem byggir á gö
 
 ## Námsmat
 
-Einkunn verður gefin út frá spurningablaði, hópverkefni og kynningu á því, og skriflegri skýrslu. Einkunnin er samsett á eftirfarandi hátt:
+Einkunn verður gefin út frá spurningablaði, hópverkefni og kynningu á því og skriflegri skýrslu. Einkunnin er samsett á eftirfarandi hátt:
 
 Spurningablað (10%)
 
@@ -102,7 +102,7 @@ Skýrsla (10%)
 
 Þú þarft að skila inn svörum við spurningablaði eigi síðar en 14. desember.
 Kynningar verða haldnar 15. og 16. desember (þú færð að velja dag og tíma).
-Allt efni sem notað er á kynningu þarf að vera aðgengilegt kennurum áður en kynningin hefst, og vera aðgengilegt í a.m.k. 30 daga. Skýrslunni þarf að skila eigi síðar en 16. desember.
+Allt efni sem notað er á kynningu þarf að vera aðgengilegt kennurum áður en kynningin hefst og vera aðgengilegt í a.m.k. 30 daga. Skýrslunni þarf að skila eigi síðar en 16. desember.
 
 Skilafresturinn er ekki sveigjanlegur: öllu sem er skilað eftir að skilafrestur rennur út verður ekki gefin einkunn.
 
@@ -115,11 +115,11 @@ Námskeiðið samanstendur af:
 * Undirbúningi og kynningu á hópverkefni
 * Ritun skýrslu
 * Skjölum og bókum sem kennarar mæla með
-* Hljóðvörpum sem kennarar mæla með
+* Hlaðvarpsþætti sem kennarar mæla með
 
 Í upphafi námskeiðsins verða haldnir fyrirlestrarnir sem munu fara yfir efni kennsluáætlunar. Hópvinna gefur nemendahópum tækifæri til að finna, undirbúa og myndbirta gögnin sem þau munu segja frá í hópkynningunni sinni. Kennarar munu vera á staðnum á uppgefnum tímum til að svara spurningum og leiðbeina nemendum. Skýrslan (u.þ.b. 1.000 orð) mun segja stuttlega frá greiningu gagnanna og myndbirtingu þeirra. Efni það sem kennarar mæla með mun styðja við efnið sem farið verður yfir í fyrirlestrunum.
 
-## Bækur og hljóðvörp
+## Bækur og hlaðvarpsefni
 
 <label for="mn-bookcopy" class="margin-toggle">&#8853;</label>
 <input type="checkbox" id="mn-bookcopy" class="margin-toggle"/>
