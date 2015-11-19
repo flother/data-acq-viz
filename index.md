@@ -110,8 +110,8 @@ The expected workload for students is 150 hours.
 You must hand in the completed question paper no later than 14 December.
 Presentations will be held on 15 and 16 December (you will be able to choose
 the day and time). Final presentation materials must be available to lecturers
-before your presentation. Your written report must be handed in no later than
-16 December.
+before your presentation and be available for at least thirty days. Your
+written report must be handed in no later than 16 December.
 
 The deadlines are not flexible: anything submitted after its deadline will not
 be graded.
