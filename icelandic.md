@@ -117,13 +117,13 @@ Námskeiðið samanstendur af:
 * Skjölum og bókum sem kennarar mæla með
 * Hljóðvörpum sem kennarar mæla með
 
-Fyrirlestrarnir munu fara yfir efni kennsluáætlunar í upphafi námskeiðsins. Hópvinna gefur nemendahópum tækifæri til að finna, undirbúa og myndbirta gögnin sem þau munu segja frá í hópkynningunni sinni. Kennarar munu vera á staðnum á uppgefnum tímum til að svara spurningum og leiðbeina nemendum. Skýrslan (u.þ.b. 1.000 orð) mun segja stuttlega frá greiningu gagnanna og myndbirtingu þeirra. Efni það sem kennarar mæla með mun styðja við efnið sem farið verður yfir í fyrirlestrunum.
+Í upphafi námskeiðsins verða haldnir fyrirlestrarnir sem munu fara yfir efni kennsluáætlunar. Hópvinna gefur nemendahópum tækifæri til að finna, undirbúa og myndbirta gögnin sem þau munu segja frá í hópkynningunni sinni. Kennarar munu vera á staðnum á uppgefnum tímum til að svara spurningum og leiðbeina nemendum. Skýrslan (u.þ.b. 1.000 orð) mun segja stuttlega frá greiningu gagnanna og myndbirtingu þeirra. Efni það sem kennarar mæla með mun styðja við efnið sem farið verður yfir í fyrirlestrunum.
 
 ## Bækur og hljóðvörp
 
 <label for="mn-bookcopy" class="margin-toggle">&#8853;</label>
 <input type="checkbox" id="mn-bookcopy" class="margin-toggle"/>
-<span class="marginnote">A copy of this book is <a href="http://leitir.is/primo_library/libweb/action/display.do?fn=search&recIds=ICE01_PRIMO001356766&tabs=locationsTab">available in the university library</a>.</span>
+<span class="marginnote">Eintak af þessari bók er <a href="http://leitir.is/primo_library/libweb/action/display.do?fn=search&recIds=ICE01_PRIMO001356766&tabs=locationsTab">til á bókasafni H.R.</a>.</span>
 Edward R. Tufte. 1983. *The Visual Display of Quantitative Information*. Graphics Press.
 
 Roger D. Peng and Elizabeth Matsui. 2015. [*The Art of Data Science*] [ref1]. Leanpub.
