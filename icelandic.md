@@ -81,53 +81,45 @@ Að lokum er þessari þekkingu beitt til að smíða kynningu sem byggir á gö
 * Gagnaveitur
 * Tól
 
-## Course assessment
+## Námsmat
 
-The course will be assessed via a question paper, a group presentation, and a
-written report. The composition of your grade will be broken down into:
+Einkunn verður gefin út frá spurningablaði, hópverkefni og kynningu á því, og skriflegri skýrslu. Einkunnin er samsett á eftirfarandi hátt:
 
-Question paper (10%)
+Spurningablað (10%)
 
-Presentation
+Kynning
 
-  * Concept (8%)
-  * Implementation and methods (16%)
-  * Quality of visualisations (32%)
-  * Quality and content of the presentation (24%)
+  * Hugmynd (8%)
+  * Framkvæmd og aðferðir (16%)
+  * Gæði myndrita (32%)
+  * Gæði og innihald hópverkefnisins og kynningarinnar (24%)
 
-Report (10%)
+Skýrsla (10%)
 
-You are required to attend, participate actively, and complete paper,
-presentation, and report. Both the presentation and report must be in English.
-The expected workload for students is 150 hours.
+Ætlast er til þess að þú mætir, takir þátt í umræðum og klárir spurningablað, kynningu og skýrslu. Bæði skýrslan og kynningin þurfa að vera á ensku. Áætlaður vinnutími nemenda á námskeiðinu er 150 klst.
 
-### Deadlines
+### Skilafrestur
 
-You must hand in the completed question paper no later than 14 December.
-Presentations will be held on 15 and 16 December (you will be able to choose
-the day and time). Final presentation materials must be available to lecturers
-before your presentation. Your written report must be handed in no later than
-16 December.
+Þú þarft að skila inn svörum við spurningablaði eigi síðar en 14. desember.
+Kynningar verða haldnar 15. og 16. desember (þú færð að velja dag og tíma).
+Allt efni sem notað er á kynningu þarf að vera aðgengilegt kennurum áður en kynningin hefst, og vera aðgengilegt í a.m.k. 30 daga. Skýrslunni þarf að skila eigi síðar en 16. desember.
 
-The deadlines are not flexible: anything submitted after its deadline will not
-be graded.
+Skilafresturinn er ekki sveigjanlegur: öllu sem er skilað eftir að skilafrestur rennur út verður ekki gefin einkunn.
 
+## Kennsluaðferðir
 
-## Teaching methods
+Námskeiðið samanstendur af:
 
-The course consists of:
+* Fyrirlestrum
+* Hópvinnu
+* Undirbúningi og kynningu á hópverkefni
+* Ritun skýrslu
+* Skjölum og bókum sem kennarar mæla með
+* Hljóðvörpum sem kennarar mæla með
 
-* Lectures
-* Practical work in groups
-* Preparing and presenting a group presentation
-* Writing a report
-* Recommended reading
-* Recommended podcasts
+Fyrirlestrarnir munu fara yfir efni kennsluáætlunar í upphafi námskeiðsins. Hópvinna gefur nemendahópum tækifæri til að finna, undirbúa og myndbirta gögnin sem þau munu segja frá í hópkynningunni sinni. Kennarar munu vera á staðnum á uppgefnum tímum til að svara spurningum og leiðbeina nemendum. Skýrslan (u.þ.b. 1.000 orð) mun segja stuttlega frá greiningu gagnanna og myndbirtingu þeirra. Efni það sem kennarar mæla með mun styðja við efnið sem farið verður yfir í fyrirlestrunum.
 
-The lectures will cover the course syllabus while the practical work will allow student groups to find, prepare, and visualise data to use in their group presentation. During the practical work the lecturers will be at hand to answer questions and give guidance. The written report (approximately 1,000 words) will summarise the data analysis and visualisation. The recommended reading and podcasts are to support the concepts covered in the lectures.
-
-
-## Books and podcasts
+## Bækur og hljóðvörp
 
 <label for="mn-bookcopy" class="margin-toggle">&#8853;</label>
 <input type="checkbox" id="mn-bookcopy" class="margin-toggle"/>
@@ -144,9 +136,9 @@ Stephen Few. 2014. [*Graph Selection Matrix*] [ref4]. Perceptual Edge.
 
 Stephen Few. 2010. [*Our Irresistible Fascination with All Things Circular*] [ref5]. Perceptual Edge.
 
-[BBC More or Less] [ref6] podcast.
+[BBC More or Less] [ref6] hljóðvarp.
 
-[Data Stories] [ref7] podcast.
+[Data Stories] [ref7] hljóðvarp.
 
 
 [ref1]: https://leanpub.com/artofdatascience
