@@ -15,32 +15,6 @@ Að lokum er þessari þekkingu beitt til að útbúa kynningu sem byggir á gö
 [content1]: http://www.ru.is/
 
 
-## Hæfniviðmið
-
-### Þekking
-
-* Hæstu tindarnir í sögu myndbirtingar á gögnum
-* Algeng vandamál við myndbirtingar á gögnum
-* Góð vinnubrögð og algeng mistök við myndbirtingu gagna
-* Takmörk mannlegrar skynjunar
-* Aðferðir við gagnaöflun og gagnasnyrtingu
-* Grundvallarhugtök vel gerðra stafrænna korta
-* Verkfæri til að smíða myndrit, kort og við gagnaöflun
-
-### Leikni
-
-* Velja myndritagerð við hæfi, letur, liti og umbrot
-* Velja gagnvirka myndbirtingu við hæfi
-* Velja kortavörpun við hæfi, skala, og litaskema
-* Velja gagnaöflunarverkfæri við hæfi
-* Sækja gögn frá mismunandi gagnaveitum
-
-### Hæfni
-
-* Taka hrágögn og skýra þau fyrir áheyrendum með myndritum og kortum
-* Beita handvirkum og sjálfvirkum aðferðum við að sækja gögn
-* Beita handvirkum og sjálfvirkum aðferðum við að hreinsa gögn
-
 ## Kennsluáætlun
 
 ### Myndritagerð
@@ -118,6 +92,34 @@ Námskeiðið samanstendur af:
 * Hlaðvarpsþætti sem kennarar mæla með
 
 Í upphafi námskeiðsins verða haldnir fyrirlestrarnir sem munu fara yfir efni kennsluáætlunar. Hópvinna gefur nemendahópum tækifæri til að finna, undirbúa og myndbirta gögnin sem þau munu segja frá í hópkynningunni sinni. Kennarar munu vera á staðnum á uppgefnum tímum til að svara spurningum og leiðbeina nemendum. Skýrslan (u.þ.b. 1.000 orð) mun segja stuttlega frá greiningu gagnanna og myndbirtingu þeirra. Efni það sem kennarar mæla með mun styðja við efnið sem farið verður yfir í fyrirlestrunum.
+
+
+## Hæfniviðmið
+
+### Þekking
+
+* Hæstu tindarnir í sögu myndbirtingar á gögnum
+* Algeng vandamál við myndbirtingar á gögnum
+* Góð vinnubrögð og algeng mistök við myndbirtingu gagna
+* Takmörk mannlegrar skynjunar
+* Aðferðir við gagnaöflun og gagnasnyrtingu
+* Grundvallarhugtök vel gerðra stafrænna korta
+* Verkfæri til að smíða myndrit, kort og við gagnaöflun
+
+### Leikni
+
+* Velja myndritagerð við hæfi, letur, liti og umbrot
+* Velja gagnvirka myndbirtingu við hæfi
+* Velja kortavörpun við hæfi, skala, og litaskema
+* Velja gagnaöflunarverkfæri við hæfi
+* Sækja gögn frá mismunandi gagnaveitum
+
+### Hæfni
+
+* Taka hrágögn og skýra þau fyrir áheyrendum með myndritum og kortum
+* Beita handvirkum og sjálfvirkum aðferðum við að sækja gögn
+* Beita handvirkum og sjálfvirkum aðferðum við að hreinsa gögn
+
 
 ## Bækur og hlaðvarpsefni
 

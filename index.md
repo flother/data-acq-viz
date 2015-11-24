@@ -17,33 +17,6 @@ These concepts are applied in a practical project where you will apply your new 
 [content1]: http://www.ru.is/
 
 
-## Learning outcome
-
-### Knowledge
-
-* Milestones in the history of data visualisation
-* Frequent problems in data visualisation
-* Best practices and common pitfalls in data visualisation
-* Limits of human visual perception
-* Process of acquiring data and preparing it for use
-* Principles of high-quality digital maps
-* Tools for creating charts and maps, and for collecting data
-
-### Skills
-
-* Select suitable chart types, colours, fonts, and layouts
-* Select suitable interactive data visualisation methods
-* Select suitable map projections, scales, and colour schemes
-* Select suitable tools for data collection
-* Acquire data from various online sources
-
-### Competencies
-
-* Take raw data and explain it to your audience using charts and maps
-* Apply manual and automatic methods to collect data
-* Apply manual and automatic methods to clean malformed data
-
-
 ## Course syllabus
 
 ### Visualisation
@@ -129,6 +102,33 @@ The course consists of:
 * Recommended podcasts
 
 The lectures will cover the course syllabus while the practical work will allow student groups to find, prepare, and visualise data to use in their group presentation. During the practical work the lecturers will be at hand to answer questions and give guidance. The written report (approximately 1,000 words) will summarise the data analysis and visualisation. The recommended reading and podcasts are to support the concepts covered in the lectures.
+
+
+## Learning outcome
+
+### Knowledge
+
+* Milestones in the history of data visualisation
+* Frequent problems in data visualisation
+* Best practices and common pitfalls in data visualisation
+* Limits of human visual perception
+* Process of acquiring data and preparing it for use
+* Principles of high-quality digital maps
+* Tools for creating charts and maps, and for collecting data
+
+### Skills
+
+* Select suitable chart types, colours, fonts, and layouts
+* Select suitable interactive data visualisation methods
+* Select suitable map projections, scales, and colour schemes
+* Select suitable tools for data collection
+* Acquire data from various online sources
+
+### Competencies
+
+* Take raw data and explain it to your audience using charts and maps
+* Apply manual and automatic methods to collect data
+* Apply manual and automatic methods to clean malformed data
 
 
 ## Books and podcasts
