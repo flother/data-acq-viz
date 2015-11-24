@@ -17,6 +17,8 @@ Að lokum er þessari þekkingu beitt til að útbúa kynningu sem byggir á gö
 
 ## Kennsluáætlun
 
+Kennslustundir eru milli 09:00 og 12:00 frá 26. nóvember til 16. desember. Fyrsta kennslustundin er fimmtudaginn 26. nóvember, þar sem farið verður yfir nánari tímasetningar.
+
 ### Myndritagerð
 
 * Stutt yfirlit yfir sögu myndrita
