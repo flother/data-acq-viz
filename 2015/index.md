@@ -2,6 +2,7 @@
 title: Data acquisition and visualisation
 date: Autumn 2015
 lang: en
+permalink: /
 ---
 
 
