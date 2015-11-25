@@ -63,7 +63,7 @@ The first lecture is on Thursday the 26th where the full scheduled will be annou
 
 ## Course assessment
 
-The course will be assessed via a question paper, a group presentation, and a
+The course will be assessed via a [question paper] [qp], a group presentation, and a
 written report. The composition of your grade will be broken down into:
 
 Question paper (10%)
@@ -83,7 +83,7 @@ The expected workload for students is 150 hours.
 
 ### Deadlines
 
-You must hand in the completed question paper no later than 14 December.
+You must hand in the completed [question paper] [qp] no later than 14 December.
 Presentations will be held on 15 and 16 December (you will be able to choose
 the day and time). Final presentation materials must be available to lecturers
 before your presentation and be available for at least thirty days. Your
@@ -163,3 +163,5 @@ Stephen Few. 2010. [*Our Irresistible Fascination with All Things Circular*] [re
 [ref5]: http://www.perceptualedge.com/articles/visual_business_intelligence/our_fascination_with_all_things_circular.pdf
 [ref6]: http://www.bbc.co.uk/programmes/p02nrss1
 [ref7]: http://datastori.es/
+
+[qp]: /2015/question-paper.pdf

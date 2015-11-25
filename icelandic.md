@@ -59,7 +59,7 @@ Kennslustundir eru milli 09:00 og 12:00 frá 26. nóvember til 16. desember. Fyr
 
 ## Námsmat
 
-Einkunn verður gefin út frá spurningablaði, hópverkefni og kynningu á því og skriflegri skýrslu. Einkunnin er samsett á eftirfarandi hátt:
+Einkunn verður gefin út frá [spurningablaði] [qp], hópverkefni og kynningu á því og skriflegri skýrslu. Einkunnin er samsett á eftirfarandi hátt:
 
 Spurningablað (10%)
 
@@ -76,7 +76,7 @@ Skýrsla (10%)
 
 ### Skilafrestur
 
-Þú þarft að skila inn svörum við spurningablaði eigi síðar en 14. desember.
+Þú þarft að skila inn svörum við [spurningablaði] [qp] eigi síðar en 14. desember.
 Kynningar verða haldnar 15. og 16. desember (þú færð að velja dag og tíma).
 Allt efni sem notað er á kynningu þarf að vera aðgengilegt kennurum áður en kynningin hefst og vera aðgengilegt í a.m.k. 30 daga. Skýrslunni þarf að skila eigi síðar en 16. desember.
 
@@ -152,3 +152,5 @@ Stephen Few. 2010. [*Our Irresistible Fascination with All Things Circular*] [re
 [ref5]: http://www.perceptualedge.com/articles/visual_business_intelligence/our_fascination_with_all_things_circular.pdf
 [ref6]: http://www.bbc.co.uk/programmes/p02nrss1
 [ref7]: http://datastori.es/
+
+[qp]: /2015/question-paper.pdf
