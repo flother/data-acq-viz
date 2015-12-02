@@ -37,6 +37,10 @@ Kennslustundir eru milli 09:00 og 12:00 frá 26. nóvember til 16. desember. Fyr
 
 ### Gagnaöflun - heimurinn sem API
 
+<label for="mn-webapi" class="margin-toggle">&#8853;</label>
+<input type="checkbox" id="mn-webapi" class="margin-toggle"/>
+<span class="marginnote"><a href="/2015/web-as-api.pdf">Slæður þessa fyrirlestrar eru fáanlegar</a> sem PDF skjal.</span>
+
 * Afla gagna (skrapa, þefa, spyrja)
 * Hreinsa gögn (aðferðir, tól, gerðir)
 * Skilningur á gögnum (tól, reikniaðferðir)

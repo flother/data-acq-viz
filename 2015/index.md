@@ -41,6 +41,10 @@ The first lecture is on Thursday the 26th where the full scheduled will be annou
 
 ### Data acquisition — the world as an API
 
+<label for="mn-webapi" class="margin-toggle">&#8853;</label>
+<input type="checkbox" id="mn-webapi" class="margin-toggle"/>
+<span class="marginnote">The <a href="/2015/web-as-api.pdf">slides for this lecture are available</a> as a PDF.</span>
+
 * Getting data (scraping, sniffing, asking)
 * Cleaning data (methods, tools, formats)
 * Understanding data (tools, maths)
