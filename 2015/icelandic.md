@@ -21,6 +21,10 @@ Kennslustundir eru milli 09:00 og 12:00 frá 26. nóvember til 16. desember. Fyr
 
 ### Myndritagerð
 
+<label for="mn-design" class="margin-toggle">&#8853;</label>
+<input type="checkbox" id="mn-design" class="margin-toggle"/>
+<span class="marginnote">Skyggnur þessa fyrirkestrar eru fáanlegar sem PDF-skjöl: <a href="/2015/course-intro.pdf">fyrri hluti</a> og <a href="/2015/design.pdf">seinni hluti</a>.</span>
+
 * Stutt yfirlit yfir sögu myndrita
 * Bestu myndritin
 * Verstu myndritin

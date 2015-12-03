@@ -25,6 +25,10 @@ The first lecture is on Thursday the 26th where the full scheduled will be annou
 
 ### Visualisation
 
+<label for="mn-design" class="margin-toggle">&#8853;</label>
+<input type="checkbox" id="mn-design" class="margin-toggle"/>
+<span class="marginnote">The slides for this lecture are available as PDFs: <a href="/2015/course-intro.pdf">part one</a> and <a href="/2015/design.pdf">part two</a>.</span>
+
 * Brief overview of the history of charts
 * Best of charts
 * Worst of charts
