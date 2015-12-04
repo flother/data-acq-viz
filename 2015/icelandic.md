@@ -80,6 +80,12 @@ Kynning
 
 Skýrsla (10%)
 
+  * Inngangur
+  * Svarið: Hver? Hvað? Af hverju?
+  * Gagnrýnið verkefnið. Gekk ykkur vel? Illa?
+  * Niðurstaða
+  * Heimildaskrá
+
 Ætlast er til þess að þú mætir, takir þátt í umræðum og klárir spurningablað, kynningu og skýrslu. Bæði skýrslan og kynningin þurfa að vera á ensku. Áætlaður vinnutími nemenda á námskeiðinu er 150 klst.
 
 ### Skilafrestur

@@ -86,6 +86,12 @@ Presentation
 
 Report (10%)
 
+  * Abstract
+  * Answer: Who? What? Why?
+  * Critique your successes and failures
+  * Conclusion
+  * Bibliography and citations
+
 You are required to attend, participate actively, and complete paper,
 presentation, and report. Both the presentation and report must be in English.
 The expected workload for students is 150 hours.
