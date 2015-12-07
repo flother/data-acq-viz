@@ -53,6 +53,10 @@ Kennslustundir eru milli 09:00 og 12:00 frá 26. nóvember til 16. desember. Fyr
 
 ### Stafræn kortagerð
 
+<label for="mn-maps" class="margin-toggle">&#8853;</label>
+<input type="checkbox" id="mn-maps" class="margin-toggle"/>
+<span class="marginnote"><a href="/2015/making-maps.pdf">Skyggnur þessa fyrirkestrar eru fáanlegar</a> sem PDF skjal.</span>
+
 * Varpanir
 * Skalar
 * Litaskemu

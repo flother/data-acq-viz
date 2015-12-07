@@ -57,6 +57,10 @@ The first lecture is on Thursday the 26th where the full scheduled will be annou
 
 ### Digital mapping
 
+<label for="mn-maps" class="margin-toggle">&#8853;</label>
+<input type="checkbox" id="mn-maps" class="margin-toggle"/>
+<span class="marginnote">The <a href="/2015/making-maps.pdf">slides for this lecture are available</a> as a PDF.</span>
+
 * Projections
 * Scales
 * Colour schemes
