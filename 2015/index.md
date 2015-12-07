@@ -20,7 +20,7 @@ These concepts are applied in a practical project where you will apply your new 
 
 ## Course syllabus
 
-Classes are held from 09:00 until 12:00 between the 26th of November and the 16th of  December.
+Classes are held from 09:00 until 12:00 in room M102 between the 26th of November and the 16th of  December.
 The first lecture is on Thursday the 26th where the full scheduled will be announced.
 
 ### Visualisation
