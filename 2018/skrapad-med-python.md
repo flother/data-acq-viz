@@ -1,5 +1,7 @@
-Skrapað með Python
-==================
+---
+title: Skrapað með Python
+lang: is
+---
 
 Python á macOS
 --------------
