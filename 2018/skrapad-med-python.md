@@ -11,21 +11,13 @@ Makkar koma með Python 2.7 foruppsettu. Stýrikerfið notar þá útgáfu fyrir
 Ef þú ert nú þegar búin(n) að koma þér upp einhverju öðru vinnulagi sem virkar (t.d. með `pip`og `virtualenv` eða heildarlausn eins og `conda`) er engin ástæða til að skipta úr því. Notaðu það sem virkar fyrir þig. Ef þú ert hins vegar að setja upp Python í fyrsta skipti mæli ég með `pipenv` – og reyndar mælir python.org opinberlega með því líka síðan fyrir stuttu. Hér er crash-course í að búa til nýtt verkefni frá grunni með `pipenv`:
 
 1. Sæktu og settu upp nýjustu útgáfu Python frá https://www.python.org/
-
 2. Settu upp Homebrew samkvæmt leiðbeiningum af https://brew.sh/. Það eru vissulega margar aðrar leiðir en Homebrew færar til að setja upp `pipenv`, en allir Makkanotendur ættu að hafa Homebrew eða viðlíka pakkastjórnunarkerfi uppsett hvort sem er – svo nú er ágætis tímapunktur til að setja það upp ef þú hefur ekki gert það nú þegar.
-
 3. Með Homebrew uppsett er nóg að skrifa `brew install pipenv` í Terminal til að setja `pipenv` upp.
-
 4. Búðu til möppu fyrir verkefnið þitt og farðu inn í hana í Terminal-forritinu þínu.
-
 5. Skrifaðu `pipenv --python 3.6`. Þetta segir `pipenv` að búa til nýtt sýndarumhverfi fyrir verkefnið þitt, í þeirri möppu sem er opin, og nota til þess útgáfu 3.6 af Python.
-
 6. Nú er sniðugt að setja upp þá Python-pakka sem þú veist að þú munt þurfa fyrir verkefnið. `pipenv install requests beautifulsoup4` mun til dæmis setja upp þá tvo pakka sem við notuðum í tímanum til að búa til lottóskraparann (sjá `lotto-scraper.py`). `pipenv` sér til þess að pakkarnir séu settir upp fyrir þetta sýndarumhverfi eingöngu og skrifar út Pipfile-skrá sem tiltekur þá pakka sem þú ert að nota í þessu verkefni. Þetta gerir verkefnið þitt einnig færanlegra; ef þú vilt senda einhverjum skrifturnar þínar læturðu einfaldlega Pipfile-skrána fylgja með og viðtakandinn þarf þá ekki að gera annað en keyra `pipenv install` til að endurskapa nákvæmlega umhverfið sem þú notaðir. Þú getur hvenær sem er sett upp og fjarlægt pakka úr sýndarumhverfinu (og `pipenv` sér um að halda Pipfile-skránni uppfærðri).
-
 7. Skrifaðu `pipenv shell` til að virkja nýja sýndarumhverfið með viðeigandi Python-útgáfu og -pökkum. Hér eftir ertu í nokkurs konar sandkassa þar sem ekkert sem þú gerir hefur áhrif á önnur sýndarumhverfi eða Python-uppsetningu stýrikerfisins. Frekar sneddí.
-
 8. Til að yfirgefa sandkassann skrifarðu `exit`.
-
 
 Python á Windows
 ----------------
