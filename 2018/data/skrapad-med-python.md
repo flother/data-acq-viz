@@ -104,28 +104,33 @@ Aðrar gagnlegar vefsíður
 Opinbera Python-skjölunin
 -------------------------
 https://docs.python.org/3/
+
 Útskýringar og sýnidæmi fyrir allt sem er innbyggt í Python
 
 
 How to Python
 -------------
 http://howtopython.org/en/latest/
+
 Kenneth Reitz (maðurinn sem skrifaði `pipenv` og `requests`) er akkúrat í þessum skrifuðu orðum að koma þessari síðu upp og er hún því í stöðugri vinnslu. Stefnir í að verða mjög góð upplýsingalind. Enn sem komið er má hins vegar finna ítarlegri upplýsingar í fyrra gæluverkefni Reitz...
 
 
 The Hitchhiker’s Guide to Python
 --------------------------------
 http://docs.python-guide.org/
+
 Kenneth Reitz er nefnilega ofvirkur.
 
 
 PEP 8
 -----
 https://www.python.org/dev/peps/pep-0008/
+
 PEP-8 er opinber leiðarvísir Python um forritunarstíl. Ef þú hyggur á frama í Python fylgirðu þessum stælgæd eða hættir á að verða aðhlátursefni sjóaðra Python-forritara. Sem er ef til vill ekkert verra.
 
 
 Python Module of the Week
 -------------------------
 https://pymotw.com/3/
+
 Síða sem fer mjög ítarlega ofan í saumana á flestum innbyggðum eiginleikum Python. Skoðið t.d. kaflann um `itertools` – þar er pottþétt eitthvað sem þið eigið eftir að nota.
