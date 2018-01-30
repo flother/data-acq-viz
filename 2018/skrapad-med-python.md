@@ -1,6 +1,8 @@
 ---
 title: Skrapað með Python
 lang: is
+author: Ólafur Sindri Ólafsson
+date: 2018-01-29
 ---
 
 Python á macOS
