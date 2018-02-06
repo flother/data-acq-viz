@@ -351,7 +351,7 @@ library(readr)
 library(stringr)
 library(tidyr)</code></pre>
 <p>We will use <a href="http://dplyr.tidyverse.org/"><code>dplyr</code></a> for data manipulation, <a href="http://magrittr.tidyverse.org/"><code>magrittr</code></a> for the pipe (<code>%&gt;%</code>), <a href="http://purrr.tidyverse.org/"><code>purrr</code></a> for functional programming, <a href="http://readr.tidyverse.org/"><code>readr</code></a> for reading the CSV file, <a href="http://stringr.tidyverse.org/"><code>stringr</code></a> for string manipulation, and <a href="http://tidyr.tidyverse.org/"><code>tidyr</code></a> for tidying the data.</p>
-<p>Most of the logic to tidy the data can be using only base R and the <code>tidyverse</code>, but we will need one custom function:</p>
+<p>Most of the logic to tidy the data can be done using only standard R and the <code>tidyverse</code>, but we will need one custom function:</p>
 <pre class="r"><code>comma_constituencies &lt;- function (s) {
   paste(str_extract_all(s, 'N[AV]|R[NS]|S(?!V)|SV')[[1]], collapse = ',')
 }</code></pre>
