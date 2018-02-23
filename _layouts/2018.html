@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="{% if page.lang %}{{ page.lang }}{% else %}en{% endif %}">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/css/2018.css">
+    <title>{{ page.title }}{% if page.date %}, {{ page.date|downcase }}{% endif %}</title>
+  </head>
+  <body>
+    <article>
+      <h1>{% if page.heading %}{{ page.heading }}{% else %}{{ page.title }}{% endif %}</h1>
+      {% if page.author or page.date %}
+        <p id="meta">
+          {% if page.author %}{{ page.author }}{% endif %}
+          {% if page.date %}<time>{{ page.date | date:"%d %B %Y" }}</time>{% endif %}
+        </p>
+      {% endif %}
+      {{ content }}
+    </article>
+  </body>
+</html>
