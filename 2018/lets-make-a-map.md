@@ -4,7 +4,7 @@ date: 2018-02-23
 layout: 2018
 ---
 
-We're going to make a [choropleth map] showing people killed by police and other law enforcement agencies across the United States in 2015 and 2016. The end result will look like this:
+We're going to make a [choropleth map] showing people killed by police and other law enforcement agencies across the United States in 2015 and 2016. The result will look like this:
 
 ![](/img/per-1m.png)
 
@@ -41,7 +41,7 @@ Creating the map
 
    ![](/img/48-filter.png)
 
-1. Now we have a map of the 48 contiguous states we want to use a projection that suits that geography. Open up the project properties (use the menu _Project → Properties..._) and select the _CRS_ panel. Tick _Enable 'on the fly' CRS transformation (OTF)_ and then use the filter to select _US National Atlas Equal Area_.
+1. Now we have a map of the 48 contiguous states we want to use a projection that suits that geography. Open the project properties (use the menu _Project → Properties..._) and select the _CRS_ panel. Tick _Enable 'on the fly' CRS transformation (OTF)_ and then use the filter to select _US National Atlas Equal Area_.
 
    ![](/img/crs-filter.png)
 
@@ -61,7 +61,7 @@ Creating the map
 
    Make sure to name the count field name `NUM_DEATHS` and then click _Run_.
 
-1. There's a new layer on the map named _Count_. Open up the layer properties (_Layer → Properties..._) and select the _Style_ panel. Choose a graduated style using a sequential colour ramp ([ColorBrewer] will help you here), `NUM_DEATHS` as the data column and _Natural Breaks (Jenks)_ as the mode. Try five data classes. Click _Classify_ and then _OK_.
+1. There's a new layer on the map named _Count_. Open the layer properties (_Layer → Properties..._) and select the _Style_ panel. Choose a graduated style using a sequential colour ramp ([ColorBrewer] will help you here), `NUM_DEATHS` as the data column and _Natural Breaks (Jenks)_ as the mode. Try five data classes. Click _Classify_ and then _OK_.
 
    ![](/img/layer-style.png)
 
