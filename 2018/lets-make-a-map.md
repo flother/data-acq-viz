@@ -61,7 +61,7 @@ Creating the map
 
    ![](/img/count-points.png)
 
-   Make sure to name the count field name `NUM_DEATHS` and then click _Run_.
+   Make sure to name the count field `NUM_DEATHS` and then click _Run_.
 
 1. There's a new layer on the map named _Count_. Open the layer properties (_Layer → Properties..._) and select the _Style_ panel. Choose a graduated style using a sequential colour ramp ([ColorBrewer] will help you here), `NUM_DEATHS` as the data column and _Natural Breaks (Jenks)_ as the mode. Try five data classes. Click _Classify_ and then _OK_.
 
