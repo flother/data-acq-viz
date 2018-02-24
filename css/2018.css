@@ -16,20 +16,19 @@ html {
   line-height: 1.4;
 }
 body {
-  margin: 0;
+  margin: 0 1rem;
   padding: 0;
 }
 article {
-  margin: 4rem auto;
-  width: 40rem;
+  margin: 2rem auto 4rem;
 }
 h1 {
   font-size: 2rem;
   font-weight: bold;
-  margin: 4rem 0;
+  margin: 2rem 0;
 }
 #meta {
-  margin: -4rem 0 4rem;
+  margin: -2rem 0 4rem;
 }
 #meta time {
   display: block;
@@ -60,6 +59,12 @@ ul li {
 p {
   margin: .75rem 0;
 }
+pre {
+  font: 16px/1.5 Monaco, Consolas, monospace;
+  margin: .75rem 0;
+  overflow-x: auto;
+  width: 100%;
+}
 a:link,
 a:visited {
   border-bottom: 1px solid #000;
@@ -69,4 +74,20 @@ a:visited {
 }
 a:visited {
   color: #666;
+}
+
+@media only screen and (min-width:768px) {
+  body {
+    margin: 0 auto;
+    max-width: 40rem;
+  }
+  article {
+    margin-top: 4rem;
+  }
+  h1 {
+    margin-bottom: 4rem;
+  }
+  #meta {
+    margin-top: -4rem;
+  }
 }
