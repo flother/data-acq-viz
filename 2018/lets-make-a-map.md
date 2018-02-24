@@ -36,7 +36,9 @@ Creating the map
    Select the layer from the Layers Panel on the left-hand side of the main QGIS window. Open the Filter window (use the menu _Layer → Filter..._) and add the filter expression:
 
    ```sql
-   "iso_a2" = 'US' AND name NOT IN ('Alaska', 'Hawaii')
+   "iso_a2" = 'US'
+   AND
+   name NOT IN ('Alaska', 'Hawaii')
    ```
 
    ![](/img/48-filter.png)
