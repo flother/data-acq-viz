@@ -4,7 +4,7 @@ date: 2018-03-02
 layout: 2018
 ---
 
-Below are links to the stuff we look at while chart gazing. We might not get to look at them all, it depends on how much talking about each we do.
+Below are links to the visualisations we will look at while chart gazing. Some are good, some are bad. We might not get to look at them all, it depends on how much talking about each we do.
 
 - [A library of colours](https://medium.com/@blprnt/a-library-of-colors-5953577a26c0)  
   Jer Thorp
